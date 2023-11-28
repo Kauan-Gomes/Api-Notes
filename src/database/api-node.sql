@@ -1,5 +1,5 @@
-create database api_node2;
-use api_node2;
+create database api_node;
+use api_node;
 
 CREATE TABLE `notes` (
   `id` int(11) NOT NULL auto_increment primary key,
